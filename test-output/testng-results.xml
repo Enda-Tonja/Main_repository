@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-24T12:40:32 CDT" name="Default suite" finished-at="2023-07-24T12:40:42 CDT" duration-ms="10025">
+    <groups>
+    </groups>
+    <test started-at="2023-07-24T12:40:32 CDT" name="Default test" finished-at="2023-07-24T12:40:42 CDT" duration-ms="10025">
+      <class name="variousConcepts.MyRealTestNg">
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcepts.MyRealTestNg@a1153bc]" started-at="2023-07-24T12:40:32 CDT" name="init" finished-at="2023-07-24T12:40:35 CDT" duration-ms="2708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:1, instance:variousConcepts.MyRealTestNg@a1153bc]" started-at="2023-07-24T12:40:35 CDT" name="login" finished-at="2023-07-24T12:40:36 CDT" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcepts.MyRealTestNg@a1153bc]" started-at="2023-07-24T12:40:36 CDT" name="init" finished-at="2023-07-24T12:40:39 CDT" duration-ms="2367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="addCustomer()[pri:2, instance:variousConcepts.MyRealTestNg@a1153bc]" started-at="2023-07-24T12:40:39 CDT" name="addCustomer" finished-at="2023-07-24T12:40:42 CDT" duration-ms="3800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- variousConcepts.MyRealTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
